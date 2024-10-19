@@ -10,6 +10,6 @@ run npm run build
 
 run rm -rf ./src
 
-expose 3000
+expose 3001
 
 cmd ["npm", "run", "start:prod"]
